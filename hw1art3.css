@@ -9,3 +9,8 @@ img{
     width: 200px;
     border-radius: 100px;
 }
+
+#innerdiv{
+    width: 20vw;
+    margin: auto;
+}
