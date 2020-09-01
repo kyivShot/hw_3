@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    color: violet;
+    font-style: italic;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}

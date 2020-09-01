@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+img{
+    border-radius: 10px;
+    float: left;
+    margin-right: 25px;
+    margin-bottom: 10px;
+}
+
+p{
+    display: block;
+    width: 40vw;
+    text-align: justify;
+}
+
+#innerdiv{
+    width: 40vw;
+    margin: auto;
+}
+
+#indiv{
+    width: fit-content;
+    margin: auto;
+}

@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: red;
+    font-style: italic;
+}
+
+img{
+    float: left;
+    border-radius: 15px;
+    height: 200px;
+    width: 200px;
+    margin-right: 25px;
+    margin-bottom: 10px;
+}
+
+p{
+    width: 40vw;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+#innerdiv{
+    width: 40vw;
+    margin: auto;
+}
+
+#indiv{
+    width: fit-content;
+    margin: auto;
+}
