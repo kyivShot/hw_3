@@ -1,0 +1,65 @@
+
+img{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+#imgdiv{
+    width: 100px;
+    height: 100px;
+    float: left
+}
+
+#h1div{
+    height: 100px;
+    float: left;
+    margin-top: 10px;
+}
+
+#indiv1{
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    margin-top: 20vh;
+}
+
+#lbl1{
+    float: left;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#input1{
+   position: relative;
+   left: 50px;
+}
+
+#input1div{
+    width: 296px;
+    margin: auto;
+}
+
+#lbl2{
+    float: left;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#input2{
+    position: relative;
+    left: 25px;
+}
+
+#input2div{
+    width: 296px;
+    margin: auto;
+}
+
+form{
+    margin-top: 100px;
+}
+
+input{
+    width: 200px;
+}
