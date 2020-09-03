@@ -56,6 +56,33 @@ img{
     margin: auto;
 }
 
+#input3{
+    float: left;
+    
+}
+
+#input3div{
+    width: 296px;
+    margin: auto;
+}
+
+#chkbx{
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 50px;
+    margin-left: 80px;
+}
+
+#lbl4{
+    width: 380px;
+    margin: auto;
+}
+
+#btn{
+    width: 120px;
+    margin: auto;
+}
+
 form{
     margin-top: 100px;
 }
